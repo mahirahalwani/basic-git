@@ -9,5 +9,8 @@
 
 ## Other examples of github
 
+## Command Prompt (tools to easily work around git
+- 
+
 ## Thesaurus
 1. Commit: New version of one or multiple files.
