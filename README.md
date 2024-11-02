@@ -41,6 +41,7 @@
 - git stash: moves changes into a stash
 - git rebase: reapplies commits on top of another base tip
 - git clean: removes untracked files
+
 ** visit https://git-scm.com/ for all the git commands explanation
 
 ## Pull Requests
