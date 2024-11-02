@@ -2,9 +2,9 @@
 
 
 ## Why we need Git
-- easily retrieves colleague's changes
-- solving conflicts
-- multiple project versions (hindering others 
+- easily retrieves other contributor's changes
+- solving conflicts by letting the contributors choose which file to save and which file to delete
+- multiple project versions, allowing several contributors to change one file at once
 - never lose changes
 - simple, leightweight, fast
 
