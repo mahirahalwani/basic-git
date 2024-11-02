@@ -1,5 +1,6 @@
 ## This is a basic Git/Github introduction notes for people who are new or not familiar to Github. (like me :P)
 
+
 ## Why we need Git
 - easily retrieves colleague's changes
 - solving conflicts
@@ -7,7 +8,9 @@
 - never lose changes
 - simple, leightweight, fast
 
+
 ## Other examples of github
+
 
 ## Command Prompt (tools to easily work around git
 - git clone {repository URL}: creates a local project based on the link provided
@@ -32,10 +35,10 @@
 - git reset --hard: removes commits from history and changes
 - git merge: merges the branches
 
+
 ## Pull Requests
 - A way for one contributer to have a look at another contributor's code, gives opinions and reviews, and approves or rejects changes
 - Helps solve merge conflicts
-  
 
 
 ## Thesaurus
