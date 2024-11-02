@@ -9,10 +9,10 @@
 - simple, leightweight, fast
 
 
-## Other examples of github
+## Other examples of Github
 - GitLab, AWS CodeCommit, BitBucket, etc.
 
-## Command Prompt (tools to easily work around git
+## Command Prompt
 - git clone {repository URL}: creates a local project based on the link provided
 - git remote -v : displays the link to the remote repository
 - git add . : adds all changed files to the staging area
