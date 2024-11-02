@@ -10,7 +10,7 @@
 
 
 ## Other examples of github
-
+- GitLab, AWS CodeCommit, BitBucket, etc.
 
 ## Command Prompt (tools to easily work around git
 - git clone {repository URL}: creates a local project based on the link provided
@@ -34,7 +34,14 @@
 - git reset --soft: removes commit from history but keeps the changes
 - git reset --hard: removes commits from history and changes
 - git merge: merges the branches
-
+- git init: creates a new local repository in a folder or reinitialize an existing one
+- git remote add: add a new remote repository to your project
+- git diff sourceBranch targetBranch: compares differences between two different branches
+- git tag: adds a tag references
+- git stash: moves changes into a stash
+- git rebase: reapplies commits on top of another base tip
+- git clean: removes untracked files
+** visit https://git-scm.com/ for all the git commands explanation
 
 ## Pull Requests
 - A way for one contributer to have a look at another contributor's code, gives opinions and reviews, and approves or rejects changes
